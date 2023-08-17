@@ -31,10 +31,12 @@ List of Experiments
     mismatch” page. If name is not found in the database, serves a registration page, where user’s full
     name is asked and on submitting the full name, it stores, the login name, password and full name in
     the database (hint: use session for storing the submitted login name and password).
+
 10.Write a PHP program to Insert, update and delete using student database.
+   
 11. a). Implement the web application using PHP, A web application that lists all cookies stored in the
     browser on clicking “List Cookies” button. Add cookies if necessary.
-b). Implement the web application using PHP, which takes a name as input and on submit it shows a
+    b). Implement the web application using PHP, which takes a name as input and on submit it shows a
     hello <name> page where<name> is taken from the request. It shows the start time at the right top
     corner of the page and provides a logout button. On clicking this button, it should show a logout page
     with “Thank You”. <name> message with the duration of usage (hint: Use session to store name and time).
