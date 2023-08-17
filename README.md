@@ -39,5 +39,5 @@ b). Implement the web application using PHP, which takes a name as input and on 
     corner of the page and provides a logout button. On clicking this button, it should show a logout page
     with “Thank You”. <name> message with the duration of usage (hint: Use session to store name and time).
 12. Write a Program to hide paragraph using jQuery.
-13 .Create a web page using Bootstrap.
+13. Create a web page using Bootstrap.
 14. Create an HTML page to perform CRUD operations using ReactJS, Node.js and mongoDB.
