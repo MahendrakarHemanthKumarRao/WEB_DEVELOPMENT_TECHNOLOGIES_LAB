@@ -71,18 +71,18 @@ height: 40px;
 <dl align="justify">
 <dt><b>VISION</b></dt>
 <dd><ul><li>To become a premier Educational Institution in India offering the
-best teaching and learning environment for our students that will enable them become complete
+best teaching and learning environment for our students that will enable them to become complete
 individuals with professional competency, human touch, ethical values, service motto, and a
-strong sense of responsibility towards environment and society at large.</li></ul></dd>
+strong sense of responsibility towards the environment and society at large.</li></ul></dd>
 <dt><b>MISSION</b></dt>
 <dd><ul>
 <li>Continually enhance the quality of physical infrastructure and human
-resources to evolve in to a centre of excellence in engineering education</li>
+resources to evolve in to a center of excellence in engineering education</li>
 <li>Provide comprehensive learning experiences that are conducive for the
-students to acquire professional competences, ethical values, life-long learning abilities and
-understanding of the technology, environment and society.</li>
-<li>Strengthen industry institute interactions to enable the students work on
-realistic problems and acquire the ability to face the ever changing requirements of the
+students to acquire professional competencies, ethical values, life-long learning abilities and
+understanding of technology, environment, and society.</li>
+<li>Strengthen industry-institute interactions to enable the students to work on
+realistic problems and acquire the ability to face the ever-changing requirements of the
 industry.</li>
 <li>Continually enhance the quality of the relationship between students and
 faculty which is a key to the development of an exciting and rewarding learning environment
@@ -97,7 +97,7 @@ in the college.</li>
 </div>
 </header><br><br>
  <div id="footer">
-<p align="center"> &copy; M.Hemanth Kumar Rao--Allrights Reserved
-    </div></div>
+<p align="center"> &copy; M.Hemanth Kumar Rao--All rights Reserved
+    </div>
 </body>
 </html>
