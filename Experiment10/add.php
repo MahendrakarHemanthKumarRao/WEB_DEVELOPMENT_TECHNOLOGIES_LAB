@@ -50,6 +50,3 @@ text-align:center;
 <p align="center"> &copy; M.Hemanth Kumar Rao--Allrights Reserved
 </body>
 </html>
-
-</body>
-</html>
