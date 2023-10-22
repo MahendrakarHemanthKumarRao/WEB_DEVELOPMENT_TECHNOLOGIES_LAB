@@ -34,7 +34,7 @@ $_SESSION["name"] = $_POST["uname"];
 }
 ?>
 <div id = "footer">
-<p align = "center"> &copy;N.USHASREE all rights --reserved </p>
+<p align = "center"> &copy;M.Hemanth Kumar Rao all rights --reserved </p>
 </div>
 </body>
 </html>
