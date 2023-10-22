@@ -29,6 +29,6 @@ $_SESSION["etime"] = $currentTime; header('Location: Welcome.php');
 }
 ?>
 <div id = "footer">
-<p align = "center"> &copy; N.USHASREE-- all rights -reserved </p>
+<p align = "center"> &copy; M.Hemanth Kumar Rao-- all rights -reserved </p>
 </div>
 </html>
