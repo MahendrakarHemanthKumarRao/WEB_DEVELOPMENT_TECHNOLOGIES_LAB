@@ -21,7 +21,7 @@ setcookie("Name","Hemanth");
 setcookie("Address","Hyderabad");
 ?>
 <div id = "footer">
-<p align = "center"> &copy; Venkatesh K allrights --reserved </p>
+<p align = "center"> &copy; M. Hemanth Kumar Rao allrights --reserved </p>
 </div>
 </body>
 </html>
